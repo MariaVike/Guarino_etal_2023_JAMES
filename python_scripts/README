@@ -1,1 +1,10 @@
-
+This folder contains python scripts used for data analysis and figure production in Guarino et al., JAMES, 2023.
+annual_amplitude.py             -- Figure  6
+CO2_MIPAS_model_vprofiles.py    -- Figures 11,12
+Fe_Na_model.py			-- Figures 3,4,5  
+Fe_Na_obs.py			-- Figures 3,4,5
+heating_rates.py 		-- Figure  10
+tendencies.py			-- Figure  8
+T_MIPAS_model_vprofiles.py 	-- Figure  13
+T_MIPAS_model_zmean.py		-- Figure  14
+U_T_CO2_Kzz_zmean.py		-- Figures 2,7,9
