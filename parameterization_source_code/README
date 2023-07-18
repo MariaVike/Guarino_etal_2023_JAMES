@@ -1,1 +1,4 @@
+This folder contains the source code of the wave-driven vertical transport parameterization presented in Guarino et al., JAMES, 2023.
 
+-gw_chem.F90 is the new module that has been added to the WACCM gravity wave drag scheme and where the new diffusivities (K_wave and K_Dyn) are computed. 
+-gw_drag.F90, gw_common.F90 and gw_diffusion.F90 are WACCM gravity wave drag subroutines that have been modfied to work along with the new parameterization. 
