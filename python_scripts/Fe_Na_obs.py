@@ -23,6 +23,9 @@ import scipy
 from scipy import stats
 from shiftedColorMap import*
 
+#Author: Maria Vittoria Guarino (mguarino@ictp.it)
+#International Centre for Theoretical Physics (ICTP)
+
 ############################################################
 
 def plot_months(data_in, hgt, title, color_map, mid_point, levels, levels2, c_label, Log_scale, PMC):

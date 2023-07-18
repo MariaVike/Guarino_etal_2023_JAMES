@@ -30,6 +30,9 @@ from scipy import stats
 
 from iris.cube import Cube
 
+#Author: Maria Vittoria Guarino (mguarino@ictp.it)
+#International Centre for Theoretical Physics (ICTP)
+
 
 ########### Interpolate data on a Geopotential height vertical coordinate #################################################
 #This function compute the zonal mean of the geopotential height (assuming GPH does not change much for a fixed latitude) and for each grid-point in the dataset (data_in) interpolates the (GPH,latitude) profiles to a common, pre-defined GPH vertical coordinate. Returns a cube with dimensions (GPH,latitude) to be used to plot the zonal mean of data_in.

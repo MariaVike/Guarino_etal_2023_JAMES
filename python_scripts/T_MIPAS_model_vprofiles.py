@@ -30,6 +30,9 @@ from scipy import stats
 
 from iris.cube import Cube
 
+#Author: Maria Vittoria Guarino (mguarino@ictp.it)
+#International Centre for Theoretical Physics (ICTP)
+
 
 ############################################## Function that compute monthly climatological means for each month in dataaset ####################################################################################
 

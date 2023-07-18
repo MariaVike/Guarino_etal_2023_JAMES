@@ -32,6 +32,9 @@ from iris.cube import Cube
 
 from collections import OrderedDict
 
+#Author: Maria Vittoria Guarino (mguarino@ictp.it)
+#International Centre for Theoretical Physics (ICTP)
+
 
 #### Different linestyles ######
 

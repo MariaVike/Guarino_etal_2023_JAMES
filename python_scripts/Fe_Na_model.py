@@ -24,6 +24,9 @@ import scipy
 from scipy import stats
 from shiftedColorMap import*
 
+#Author: Maria Vittoria Guarino (mguarino@ictp.it)
+#International Centre for Theoretical Physics (ICTP)
+
 ########## Interpolate data on a Geopotential height vertical coordinate #################################################
 def to_gph_months(data_in,GPH):
 

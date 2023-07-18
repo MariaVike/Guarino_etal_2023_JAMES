@@ -19,6 +19,9 @@ import pandas as pd
 import scipy
 from scipy import stats
 
+#Author: Maria Vittoria Guarino (mguarino@ictp.it)
+#International Centre for Theoretical Physics (ICTP)
+
 
 ############## Compute N^2 at latitude #########################################################################
 def compute_Nsq(TH, GPH, lat, lon, zmean):

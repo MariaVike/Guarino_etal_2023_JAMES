@@ -21,7 +21,10 @@ import pandas as pd
 import scipy
 from scipy import optimize
 from scipy import stats
-from shiftedColorMap import*
+from shiftedColorMap import*. 
+
+#Author: Maria Vittoria Guarino (mguarino@ictp.it)
+#International Centre for Theoretical Physics (ICTP)
 
 ############ Function to apply harmonic fit to input data: a1 annual amplitude, b1 annual phase constant, a2 semiannual amplitude, b2 semiannual phase constant, t time coordinate  ########################
 
